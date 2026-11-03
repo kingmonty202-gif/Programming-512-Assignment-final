@@ -1,7 +1,6 @@
 ## Smart Campus Resource Booking System
 Run:  python main.py   (Python 3, no extra libraries needed)
 
-https://github.com/kingmonty202-gif/Programming-512-Assignment-final.git
 
 ## Test accounts:
   Campus admins : admin_jhb / admin_dbn / admin_cpt   password: admin123
